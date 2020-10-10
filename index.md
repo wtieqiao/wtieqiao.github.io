@@ -23,6 +23,5 @@
         <li> 董小姐 你可知道我说够了再见</li>
         <li> 在五月的早晨 终于丢失了睡眠。。。。。</li>
     </ul>
-    <script src="javascript/102.js"></script>
-  </body>
+     </body>
 </html> 
