@@ -4,7 +4,7 @@
     <title>块级元素 行内元素示例</title>
   </head>
   <body>
-    <h1>民谣</h1>
+    <h1>民谣:生而为人，我很抱歉。</h1>
     <p title="a gentle reminder">献给孤独的灵魂</p>
 <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602351522974&di=644f37d1cf292a537cfb9c4e82796a5c&imgtype=0&src=http%3A%2F%2Fy2.ifengimg.com%2F393e030b23465ba7%2F2013%2F0807%2Frdn_5201ac8ce479b.jpg"/>                                
     <ul id="purases">
