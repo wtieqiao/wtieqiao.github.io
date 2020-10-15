@@ -1,6 +1,5 @@
 <html lang="zh-cn">
   <head>
-    <meta charset=“utf-8"/>
     <title>灯火阑珊</title>
     <link href="styles:test.css" rel="stylesheet" type="text/css"/>
   </head>
