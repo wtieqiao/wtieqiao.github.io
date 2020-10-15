@@ -1,7 +1,7 @@
 <html lang="zh-cn">
   <head>
     <title>灯火阑珊</title>
-    <link href="styles:test.css" rel="stylesheet" type="text/css"/>
+    <link href="/styles:test.css" rel="stylesheet" type="text/css"/>
   </head>
   <body>
     <h1>民谣:生而为人，我很抱歉。</h1>
