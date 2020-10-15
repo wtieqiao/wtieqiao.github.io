@@ -1,8 +1,8 @@
 <html lang="zh-cn">
   <head>
     <meta charset=“utf-8"/>
-    <title>块级元素 行内元素示例</title>
-    <link href=""rel="stylesheet"type="text/css"/>
+    <title>灯火阑珊</title>
+    <link href="styles:test.css" rel="stylesheet" type="text/css"/>
   </head>
   <body>
     <h1>民谣:生而为人，我很抱歉。</h1>
